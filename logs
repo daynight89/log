@@ -1,1 +1,27 @@
+<!DOCTYPE html>
 
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>Hello, World!</title>
+</head>
+<body>
+  <div class="wrapper">
+    <i style="--clr: #00ff0a;"></i>
+    <i style="--clr: #ff0057;"></i>
+    <i style="--clr: #fffd44;"></i>
+    <div class="login">
+      <h2>Login</h2>
+      <input type="text" placeholder="Nickname">
+      <input type="password" placeholder="Password">
+      <input type="submit" value="Sign in">
+      <div class="links">
+        <a href="#">Forget password</a>
+        <a href="#">Signup</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html
+>
